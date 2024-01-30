@@ -24,9 +24,9 @@
 ///
 /// # Arguments
 ///
-/// `data`          The actual data, stored as a single vec of <T>
-/// `width`         The width of the image in pixels
-/// `height`        The height of the image in pixels
+/// `data`          The actual data, stored as a `Vec<T>`
+/// `width`         The width of the canvas
+/// `height`        The height of the canvas
 ///
 /// # Note
 /// The canvas is repesented by a single vector of type `<T>`. The canvas can be interpreted in any
