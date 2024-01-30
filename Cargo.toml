@@ -1,0 +1,22 @@
+[package]
+name = "pixel-canvas"
+authors = ["Remi A. Godin"]
+version = "0.1.0"
+edition = "2021"
+description = "A simple 2 dimensional canvas struct"
+repository = "https://github.com/Remi-Godin/pixel-canvas"
+homepage = "https://github.com/Remi-Godin/pixel-canvas"
+license = "MIT"
+readme = "README.md"
+keywords = [
+    "canvas",
+    "pixel",
+    "matrix",
+]
+categories = [
+    "data-structures"
+]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
