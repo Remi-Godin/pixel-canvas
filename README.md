@@ -1,4 +1,4 @@
-# pixel-canvas
+# simple-canvas
 This crate provides a `Canvas` struct that is constructed of a single vector, but act as a 2 dimensional matrix. Along with the struct are functions to access its elements by row and column, as well as access to iterators over all elements.
 
 ## Motivation
