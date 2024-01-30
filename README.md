@@ -3,4 +3,3 @@ This crate provides a `Canvas` struct that is constructed of a single vector, bu
 
 ## Motivation
 I needed a simple struct to act as a 2 dimensional array, mostly for image creation and manipulation. After some testing, I found that using a single vector, as opposed to a vector of vector, is faster, even with the added operations needed to abstract away the access by column and row. This crate provides just this.
-
